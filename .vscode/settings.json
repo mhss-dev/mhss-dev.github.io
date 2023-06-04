@@ -1,0 +1,16 @@
+{
+    "editor.tokenColorCustomizations": {
+        "[Pink Cat Boo]": {
+            "comments": "#D57E85",
+            "functions": {
+                "fontStyle": "italic"
+            },
+            "keywords": {
+                "fontStyle": "italic bold underline"
+            },
+            "numbers": "#7297B9"
+        },
+        "comments": "",
+        "textMateRules": []
+    }
+}
